@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WebViewKiosk</string>
+    <string name="admin_description">This is brief info about Admin app</string>
+</resources>
